@@ -1,0 +1,16 @@
+body{
+	height: 100vh;
+
+}
+.box{
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	background: red;
+}
+.control{
+	position: absolute;
+	bottom: 10px;
+	left: 30%;
+	color: black;
+}
